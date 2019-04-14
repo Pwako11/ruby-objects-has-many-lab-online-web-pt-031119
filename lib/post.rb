@@ -12,7 +12,8 @@ class Post
     @@all
   end
   
-  def title
+  def title(title)
+    
     
   end 
 end 
