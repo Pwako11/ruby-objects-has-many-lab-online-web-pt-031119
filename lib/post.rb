@@ -12,7 +12,7 @@ class Post
     @@all
   end
   
-  def title(title)
+  def author(author)
     
     
   end 
