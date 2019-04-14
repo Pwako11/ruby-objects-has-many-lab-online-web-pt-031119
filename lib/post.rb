@@ -8,7 +8,7 @@ class Post
     @author = author 
     @@all << self 
   end 
-  def post.all
+  def self.all
     @@all
   end
 end 
